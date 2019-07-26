@@ -9,7 +9,7 @@ Server that will host the Tool Trackr app I completed in a previous project.
 
 
 ## Configuration Log
-
+* Run updates after building instance 2019-07-26
 
 ## References
 
