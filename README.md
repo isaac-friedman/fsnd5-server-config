@@ -17,6 +17,6 @@ Server that will host the Tool Trackr app I completed in a previous project.
 
 
 ## Authors
-
+Isaac Friedman
 
 ## Acknowledgments
