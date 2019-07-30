@@ -6,7 +6,8 @@ Server that will host the Tool Trackr app I completed in a previous project.
 
 
 ## Software Installed
-* Python 2.7 and dependencies  
+* Python 2.7
+* pip
 * Apache2 web server
 
 ## Configuration Log
