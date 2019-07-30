@@ -6,10 +6,26 @@ Server that will host the Tool Trackr app I completed in a previous project.
 
 
 ## Software Installed
-
+* Python 2.7 and dependencies  
+* Apache2 web server
 
 ## Configuration Log
-* Run updates after building instance 2019-07-26
+* Run updates after building instance  
+* Add user "grader"
+* Configured firewall with the following rules:
+```  
+Status: active
+
+To                         Action      From
+--                         ------      ----
+22/tcp                     ALLOW       Anywhere
+2200/tcp                   ALLOW       Anywhere
+80/tcp                     ALLOW       Anywhere
+22/tcp (v6)                ALLOW       Anywhere (v6)
+2200/tcp (v6)              ALLOW       Anywhere (v6)
+80/tcp (v6)                ALLOW       Anywhere (v6)
+
+```
 
 ## References
 
