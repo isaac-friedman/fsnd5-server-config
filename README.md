@@ -5,6 +5,7 @@ Server that will host the Tool Trackr app I completed in a previous project.
 ## Location
 * IP: 3.221.183.77  
 * URL: http://3.221.183.77.xip.io/
+* ssh port: 2200
 
 ## Software Installed
 * Python 2.7
