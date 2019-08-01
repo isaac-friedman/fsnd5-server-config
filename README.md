@@ -3,7 +3,8 @@ This is the final project in Udacity's Fullstack Nanodegree. The project is an A
 Server that will host the Tool Trackr app I completed in a previous project.
 
 ## Location
-
+IP: 3.221.183.77
+URL: http://3.221.183.77.xip.io/
 
 ## Software Installed
 * Python 2.7
