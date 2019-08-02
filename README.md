@@ -11,6 +11,7 @@ Server that will host the Tool Trackr app I completed in a previous project.
 * Python 2.7
 * pip
 * Apache2 web server
+* PostgresSQL -- app uses SQLlite3 but the project requires installing Postgres so I did it.
 
 ## Configuration Log
 * Run updates after building instance  
